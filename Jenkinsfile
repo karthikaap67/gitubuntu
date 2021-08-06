@@ -1,1 +1,1 @@
-ech0('karthikaa')
+print('karthikaa')
